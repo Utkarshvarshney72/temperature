@@ -1,0 +1,76 @@
+body{
+	background-image: url(D:\temperature/tem1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#convert
+{
+	margin-top: 10px;
+	background-color: red;
+	border: 3px solid; blue;
+	border-radius: 5px;
+	box-sizing: border-box;
+	color: whitesmoke;
+	cursor: pointer;
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 20px;
+	padding: 6px 16px;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	user-select: none;
+	.webkit-user-select: none;
+	touch-action: manipulation;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+#convert:hover{
+	background-color: black;
+
+}
+#clear
+{
+	margin-top: 10px;
+	background-color: greenyellow;
+	border: 2px solid black;
+	border-radius: 2px;
+	box-sizing: border-box;
+	color: red;
+	cursor: pointer;
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 20px;
+	padding: 6px 16px;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	user-select: none;
+	.webkit-user-select: none;
+	touch-action: manipulation;
+	vertical-align: middle;
+	white-space: nowrap;
+
+}
+#clear:hover{
+	background-color: royalblue;
+		}
+
+h1{
+	margin-top: 10%;
+	font-family: sans-serif;
+	color: yellowgreen;
+}
+input{
+	display: black;
+	padding: 20px;
+	margin: 20px;
+	margin-top: 10px;
+	font-size: 1em;
+	color: black;
+}
